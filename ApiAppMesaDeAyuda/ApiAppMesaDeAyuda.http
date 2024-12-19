@@ -1,0 +1,6 @@
+@ApiAppMesaDeAyuda_HostAddress = http://localhost:5146
+
+GET {{ApiAppMesaDeAyuda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
